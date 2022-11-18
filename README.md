@@ -1,7 +1,7 @@
 # MovieClub
 
 ## Description:
-Movie Club is an application, where you can register an account and vote for your favorite movies.
+Movie Club is an application, where you can register an account and vote for your favourite movies.
 
 ## Technologies used:
 - Java 17
