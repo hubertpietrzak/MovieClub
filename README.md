@@ -4,7 +4,7 @@
 Movie Club is an application, where you can register an account and vote for your favorite movies.
 
 ## Technologies used:
-- Java 8
+- Java 17
 - Maven
 - Spring Boot, Data, Security
 - Hibernate
